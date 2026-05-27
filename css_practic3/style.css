@@ -1,0 +1,18 @@
+#img1{
+    float: left;
+    margin: 10px;
+    display: flow-root;
+}
+
+#img2{
+    float: right;
+    margin:10px;
+}
+body{
+    border: solid 3px  red;
+}
+p{
+    font-style:italic;
+    font-weight: bold;
+    margin: 3px;
+}

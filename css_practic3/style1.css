@@ -1,0 +1,9 @@
+div p{
+   color: aqua; 
+   border:dotted 3px red;
+   padding:10px;
+   display: none;
+}
+div:hover p{
+    display:block;
+}

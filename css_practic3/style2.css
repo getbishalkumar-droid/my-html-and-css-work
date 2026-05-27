@@ -1,0 +1,17 @@
+h1::first-letter{
+    font-size: 100px;
+    font-style:italic;
+}
+p::first-line{
+    color:red;
+
+}
+p::selection{
+    color:aqua;
+}
+#fruit li::before{
+    content:"👍";
+}
+#apple::after{
+    content:"🙌";
+}

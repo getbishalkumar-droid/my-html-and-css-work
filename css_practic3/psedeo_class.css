@@ -1,0 +1,9 @@
+li:hover{
+    background-color: aqua;
+}
+li:not(hover){
+    background-color: rgb(60, 87, 87);
+}
+li:nth-child(odd){
+    background-color:white;
+}

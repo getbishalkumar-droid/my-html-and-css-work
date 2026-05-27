@@ -1,0 +1,18 @@
+.pegination a{
+    padding:8px 15px;
+    text-decoration: none;
+    
+}
+.pegination{
+    text-align: center;
+   
+}
+.pegination a.active{
+    background-color: aqua;
+    border-radius: 5px;
+    font-weight:bold;
+}
+.pegination a:hover:not(.active){
+    background-color: rgb(177, 186, 186);
+     border-radius: 5px;
+}

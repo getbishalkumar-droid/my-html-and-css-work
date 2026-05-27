@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+#p1{
+    color: red;
+}
+.even{
+    color: aqua;
+}
+#p3{
+    color: rgb(102,222,255);
+}
